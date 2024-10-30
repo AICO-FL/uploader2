@@ -1,0 +1,1 @@
+// This component has been removed as it's not used in the application
